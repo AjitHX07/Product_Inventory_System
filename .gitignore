@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+*.venv
+*.envrc
+.env
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+db.sqlite3
+media/
+static/
+
+# Node.js stuff:
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# React build directory
+build/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# PyCharm
+.idea/
